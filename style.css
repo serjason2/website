@@ -58,10 +58,10 @@ nav ul li a:hover::after{
 }
 .header-text{
     margin-top: 20%;
-    font-size: 30px;
+    font-size: 40px;
 }
 .header-text h1{
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 20px;
 }
 .header-text h1 span{
